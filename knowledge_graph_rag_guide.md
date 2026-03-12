@@ -50,8 +50,9 @@ The test document **"The Bangalore Nexus"** is a 4-page fictional Indian corpora
 ### Step 1 — Install Dependencies
 
 ```bash
-pip install langchain langchain-community langchain-openai langchain-experimental
-pip install neo4j pypdf python-dotenv
+pip install langchain langchain-community langchain-openai langchain-experimental langchain-text-splitters
+pip install neo4j pypdf python-dotenv streamlit
+pip install -U langchain-neo4j
 ```
 
 **What each package does:**

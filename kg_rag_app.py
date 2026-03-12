@@ -374,7 +374,7 @@ for key, default in {
 def load_langchain_modules():
     try:
         from langchain_community.document_loaders import PyPDFLoader
-        from langchain.text_splitter import TokenTextSplitter
+        from langchain_text_splitters import TokenTextSplitter
         from langchain_openai import ChatOpenAI
         from langchain_community.graphs import Neo4jGraph
         from langchain_experimental.graph_transformers import LLMGraphTransformer
