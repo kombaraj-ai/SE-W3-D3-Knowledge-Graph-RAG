@@ -17,7 +17,8 @@
     *   [3.3 Graphiti Architecture](#33-graphiti-architecture)
     *   [3.4 Key Graphiti Concepts](#34-key-graphiti-concepts)
 4. [Real-World Example — Customer Support Knowledge Graph](#4-real-world-example--customer-support-knowledge-graph)
-5. [Assignment: Knowledge Graph RAG — End-to-End Knowledge Graph RAG Application](#knowledge-graph-rag--end-to-end-knowledge-graph-rag-application)
+5. [Assignment: Knowledge Graph RAG](knowledge_graph_rag_guide.md)
+6. [Additional — End-to-End Knowledge Graph RAG Application](#knowledge-graph-rag--end-to-end-knowledge-graph-rag-application)
 
 
 # Knowledge Graph RAG
@@ -1370,6 +1371,9 @@ KNOWLEDGE GRAPH RAG:
 | **LangChain integration** | `graphiti.search()` wraps as a retriever in LCEL chains |
 
 ---
+
+# Assignment: Knowledge Graph RAG
+
 
 
 # Knowledge Graph RAG — End-to-End Knowledge Graph RAG Application
