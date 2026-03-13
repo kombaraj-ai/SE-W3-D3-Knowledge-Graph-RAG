@@ -13,8 +13,6 @@
     *   [2.3 When to Choose Which](#23-when-to-choose-which)
 3. [LLMGraphTransformer vs Graphiti](LLMGraphTransformer_vs_Graphiti.md)
 4. [Real-World Example — Customer Support Knowledge Graph](#4-real-world-example--customer-support-knowledge-graph)
-5. [Assignment: Knowledge Graph RAG](knowledge_graph_rag_guide.md)
-6. [Additional — End-to-End Knowledge Graph RAG Application](#knowledge-graph-rag--end-to-end-knowledge-graph-rag-application)
 
 
 # Knowledge Graph RAG
